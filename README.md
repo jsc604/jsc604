@@ -14,9 +14,6 @@ Driven by a genuine passion for learning, I constantly explore new technologies,
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
 - 🧱 I’m currently building an [E-Commerce Website](https://github.com/jsc604/Ecom-website/tree/main)  
   
 
@@ -25,8 +22,6 @@ Driven by a genuine passion for learning, I constantly explore new technologies,
 
 - ⚡ Fun fact: I love jumping into a cold shower after a good workout  
 
-
-</td>></tr></table>  
 
 <br/>  
 
@@ -63,17 +58,3 @@ Driven by a genuine passion for learning, I constantly explore new technologies,
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://rubyonrails.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jsc604&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsc604&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  

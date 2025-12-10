@@ -40,7 +40,7 @@ I am dedicated to crafting clean, robust, and highly performant code, constantly
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue" height="50" /></a>  
 <a href="https://nuxt.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1696835964881002498/0YEYRNGF_400x400.png" alt="Nuxt" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://sanity.io/" target="_blank"><img style="margin: 10px" src="https://atomicrobot.com/images/blog/sanity.png" alt="Sanity" height="50" /></a>  
+<a href="https://sanity.io/](https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://atomicrobot.com/images/blog/sanity.png](https://mariadb.org/favicon.ico" alt="Mariadb" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  

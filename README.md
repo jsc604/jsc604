@@ -3,12 +3,12 @@
 
 📍 Vancouver, BC | 📧 Jeffreycheung604@gmail.com
 
-I specialize in scaling high traffic digital platforms and optimizing the full request lifecycle. My focus is engineering **distributed, cloud-native solutions** that translate directly into business value and exceptional user experience.
+I specialize in scaling high traffic digital platforms and optimizing customer journey experiences through the full request lifecycle. My focus is engineering **distributed, cloud native solutions** that translate directly into business value and exceptional user experience.
 
 My recent work highlights include:
 
 * **Architectural Migration:** Led migration of 400K+ documents to a Payload CMS/MongoDB platform, **reducing cloud expenses by 70%**.
-* **Performance Engineering:** Re-architected a legacy endpoint to a **Golang RPC microservice** on a private Fly.io network, **boosting speed by 4x**.
+* **Microservices Architecture:** Re-architected a legacy endpoint to a **Golang RPC microservice** on a private Fly.io network, **boosting speed by 4x** and improving system reliability.
 * **Edge Computing:** Utilized **Cloudflare Workers** and advanced caching to optimize the request lifecycle, ensuring high **Core Web Vitals (CWV)** across a network supporting 3M+ monthly sessions.
 
 I am dedicated to crafting clean, robust, and highly performant code, constantly exploring new architecture to solve large scale problems.
@@ -17,14 +17,23 @@ I am dedicated to crafting clean, robust, and highly performant code, constantly
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, Tailwind, Vue/Nuxt, Figma |
-| **Backend & Infra**| Node.js, Golang, NestJS, Express, PostgreSQL, MongoDB |
+| **Frontend** | React, Next.js, TypeScript, Tailwind, Vue/Nuxt, HTML5, CSS/SASS, Figma |
+| **Backend & Infra**| Node.js, Golang, NestJS, GraphQL, Express, PostgreSQL, MongoDB |
 | **Cloud & DevOps**| Cloudflare Workers, Fly.io, Docker, CI/CD, Edge Caching |
-| **Testing & Observability**| Playwright, Sentry (Metrics/Tracing), Jest, GA4 |
+| **Testing & Observability**| Playwright, Jest, Mocha, Sentry (Metrics/Tracing), GA4 |
+
+### 🚀 Currently Exploring
+- Serverless architectures and edge computing optimization
+- Advanced GraphQL patterns for distributed systems
+- Container orchestration and microservices best practices
+
+I am dedicated to crafting clean, robust, and highly performant code, constantly exploring emerging technologies and architectural patterns to solve complex, large-scale challenges.
 
 ---
 
 **Currently leading engineering efforts at Gfinity PLC, managing a portfolio of high-traffic sites.**
+
+---
 
 <div align="center" style="background-color: #808080; padding: 10px;">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  

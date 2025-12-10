@@ -1,29 +1,31 @@
-## Hey 👋, I'm Jeffrey Cheung!  
-  
-### Glad to see you here! 
+# Jeffrey Cheung 👨‍💻
+### Lead Full Stack Engineer | Performance & Distributed Systems Expert
 
-I currently work at Gfinity PLC as a full-stack developer, managing a portfolio of high-traffic digital media websites.
-<br/>
-Here is a list of them: 
-<br/> [Gfinity Esports](https://www.gfinityesports.com)
-<br/> [Real Sport 101](https://realsport101.com)
-<br/> [Epic Stream](https://www.epicstream.com)
-<br/> [Stealth Optional](https://www.stealthoptional.com)
-<br/> [Racing Games](https://www.racinggames.gg)
-<br/> [Starfield Portal](https://www.starfieldportal.com)
-<br/> [TCG Rocks](https://www.tcgrocks.com)
-<br/> [Stock Informer](https://www.stockinformer.com)
-<br/> [MTG Rocks](https://www.mtgrocks.com)
+📍 Vancouver, BC | 📧 Jeffreycheung604@gmail.com
 
+I specialize in scaling high traffic digital platforms and optimizing the full request lifecycle. My focus is engineering **distributed, cloud-native solutions** that translate directly into business value and exceptional user experience.
 
-I am a passionate and adaptive Full-Stack Developer, proficient in JavaScript, Typescript, React, Vue, CSS, and HTML. My expertise extends to backend development, mobile architectures, analytics, and various JavaScript libraries. Committed to responsive design and pushing technological boundaries, I strive to craft cutting-edge client-facing apps and websites.
+My recent work highlights include:
 
-My love for designing systems that are both lightweight and powerful, distributed yet synchronized, reflects my dedication to creating captivating and seamless user experiences. With excellent coding, debugging, communication, and organizational skills, I ensure the delivery of efficient and effective solutions.
+* **Architectural Migration:** Led migration of 400K+ documents to a Payload CMS/MongoDB platform, **reducing cloud expenses by 70%**.
+* **Performance Engineering:** Re-architected a legacy endpoint to a **Golang RPC microservice** on a private Fly.io network, **boosting speed by 4x**.
+* **Edge Computing:** Utilized **Cloudflare Workers** and advanced caching to optimize the request lifecycle, ensuring high **Core Web Vitals (CWV)** across a network supporting 3M+ monthly sessions.
 
-Driven by a genuine passion for learning, I constantly explore new technologies, staying at the forefront of innovation in the rapidly evolving world of development. This curiosity and adaptability fuel my pursuit of excellence in every project I undertake.  
+I am dedicated to crafting clean, robust, and highly performant code, constantly exploring new architecture to solve large scale problems.
 
+### 🛠️ Core Technologies & Expertise
 
-## Languages and Tools  
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, Tailwind, Vue/Nuxt, Figma |
+| **Backend & Infra**| Node.js, Golang, NestJS, Express, PostgreSQL, MongoDB |
+| **Cloud & DevOps**| Cloudflare Workers, Fly.io, Docker, CI/CD, Edge Caching |
+| **Testing & Observability**| Playwright, Sentry (Metrics/Tracing), Jest, GA4 |
+
+---
+
+**Currently leading engineering efforts at Gfinity PLC, managing a portfolio of high-traffic sites.**
+
 <div align="center" style="background-color: #808080; padding: 10px;">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue" height="50" /></a>  

@@ -37,7 +37,7 @@ I am dedicated to crafting clean, robust, and highly performant code, constantly
 
 <div align="center" style="background-color: #808080; padding: 10px;">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" width=50/></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue" height="50" width=50/></a>  
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://icon.icepanel.io/Technology/svg/Vue.js.svg" alt="Vue" height="50" width=50/></a>  
 <a href="https://nuxt.com/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/1696835964881002498/0YEYRNGF_400x400.png" alt="Nuxt" height="50" width=50/></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://dash.cloudflare.com/favicon.ico" alt="Cloudflare" height="50" width=50/></a>
 <a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://playwright.dev/img/playwright-logo.svg" alt="Playwright" height="50" width=50/></a>

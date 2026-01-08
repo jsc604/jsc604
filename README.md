@@ -18,7 +18,7 @@ I am dedicated to crafting clean, robust, and highly performant code, constantly
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Frontend** | React, Next.js, TypeScript, Tailwind, Vue/Nuxt, HTML5, CSS/SASS, Figma |
-| **Backend & Infra**| Node.js, Golang, NestJS, GraphQL, Express, PostgreSQL, MongoDB |
+| **Backend & Infra**| Node.js, Golang, PostgreSQL, MongoDB |
 | **Cloud & DevOps**| Cloudflare Workers, Fly.io, Docker, CI/CD, Edge Caching |
 | **Testing & Observability**| Playwright, Jest, Mocha, Sentry (Metrics/Tracing), GA4 |
 

@@ -1,5 +1,5 @@
 # Jeffrey Cheung 👨‍💻
-### Lead Full Stack Engineer | Performance & Distributed Systems Expert
+### Software Engineer | Performance & Distributed Systems Expert
 
 📍 Vancouver, BC | 📧 Jeffreycheung604@gmail.com
 
